@@ -1,0 +1,15 @@
+  MO Energies:
+                  1
+       1     -1.632803
+       2     -0.172483
+  MO Coefficients:
+                  1             2
+       1     -0.876604      0.797750
+       2     -0.202481     -1.167836
+  density matrix:
+                  1             2
+       1      1.536869      0.354992
+       2      0.354992      0.081997
+  One-electron energy contribution =    -5.151803    
+  Two-electron energy contribution =    0.9430983    
+  tr(PS) = <PS> =     2.000000    
