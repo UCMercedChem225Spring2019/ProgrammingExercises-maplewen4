@@ -110,14 +110,14 @@
 ! WRITE CODE HERE TO READ THE ARRAY ELEMENTS FROM THE INPUT FILE.
 ! *************************************************************************
 !
-        k = 1                        
-        Do i = 1, N                  
-          Do j = 1, i                
+        k = 1     
+        Do i = 1, N
+          Do j = 1, i
             AmatOut(i,j) = ArrayIn(k)
             AmatOut(j,i) = ArrayIn(k)
-            k = k + 1                
-          endDo                      
-        endDo                        
+            k = k + 1
+          endDo
+        endDo                   
 !
 !
 !
